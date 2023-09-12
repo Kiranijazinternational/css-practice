@@ -1,0 +1,30 @@
+p, h1{
+    color: white;
+background-color:red;
+}
+
+body {
+    background-color:blanchedalmond;
+
+}
+
+#p1 {
+    border: solid 5px rgb(209, 57, 57) ;
+}
+
+#p2 {
+    border: solid 5px rgb(5, 4, 4);
+}
+.arial{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+li  a {
+    color: rgb(31, 167, 13);
+    border: solid 2px rgb(8, 8, 8) ;
+
+}
+h1+p{
+    font-weight: 800;
+}
+
